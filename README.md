@@ -1,5 +1,6 @@
-# MY DATA JOURNEY
-<img src="(https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)" alt="Olaoluwa J. Taiwo" width="100">
+# Hey! My Name Is Olaoluwa J.Taiwo and This Is My DATA Journey
+
+![Olaoluwa J Taiwo](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
