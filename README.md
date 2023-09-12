@@ -1,6 +1,6 @@
 # My GitHub Portfolio
 
-![Olaoluwa J Taiwo]([your_image_url.jpg](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png))
+![Olaoluwa J Taiwo](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
