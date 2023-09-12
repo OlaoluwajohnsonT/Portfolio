@@ -9,50 +9,22 @@ Connect with me:
 
 ## Data Analytics Projects 📈
 
-### Project 1
-![Project 1](project1_image_url.jpg)
-Description of Project 1.
-
-### Project 2
-![Project 2](project2_image_url.jpg)
-Description of Project 2.
-
+- [Project 1](project1_link_url)
+- [Project 2](project2_link_url)
 ## Machine Learning Projects 🤖
 
-### Project 1
-![Project 1](project1_image_url.jpg)
-Description of Project 1.
-
-### Project 2
-![Project 2](project2_image_url.jpg)
-Description of Project 2.
-
+- [Project 1](project1_link_url)
+- [Project 2](project2_link_url)
 ## Python Projects 🐍
 
-### Project 1
-![Project 1](project1_image_url.jpg)
-Description of Project 1.
-
-### Project 2
-![Project 2](project2_image_url.jpg)
-Description of Project 2.
-
+- [Project 1](project1_link_url)
+- [Project 2](project2_link_url)
 ## MySQL Projects 📊
 
-### Project 1
-![Project 1](project1_image_url.jpg)
-Description of Project 1.
-
-### Project 2
-![Project 2](project2_image_url.jpg)
-Description of Project 2.
+- [Project 1](project1_link_url)
+- [Project 2](project2_link_url)
 
 ## R Programming Language Projects 📉
 
-### Project 1
-![Project 1](project1_image_url.jpg)
-Description of Project 1.
-
-### Project 2
-![Project 2](project2_image_url.jpg)
-Description of Project 2.
+- [Project 1](project1_link_url)
+- [Project 2](project2_link_url)
