@@ -11,8 +11,13 @@ Connect with me:
 
 ## Data Analytics Projects 📈
 
-- [Project 1](project1_link_url)
-- [Project 2](project2_link_url)
+- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
+In this project, I analyze the usage patterns of Cyclistic's bike-share program to understand the differences between annual members and casual riders. The objective is to provide insights that will inform the development of a marketing strategy aimed at converting casual riders into annual members.
+  
+- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
+In this case study, I find myself on the marketing analytics team at Bellabeat, a company specializing in health-focused products for women. Our mission is to unlock growth opportunities for the company by analyzing smart device fitness data. Under the guidance of Bellabeat's co-founder and Chief Creative Officer, Urška Sršen, I'm tasked with delving into smart device usage trends.
+
+
 ## Machine Learning Projects 🤖
 
 - [Project 1](project1_link_url)
