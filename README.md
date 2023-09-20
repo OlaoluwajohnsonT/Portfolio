@@ -18,9 +18,10 @@ Connect with me:
 
 ## Machine Learning Projects 🤖
 
-- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)
-- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
-- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)
+- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project) 2023
+- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project) 2023
+- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021) 2023
+- [Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)
 
 ## Python Projects 🐍
 
