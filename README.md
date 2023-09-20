@@ -15,6 +15,7 @@ Connect with me:
 - [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study) 08/2023
 - [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study) 08/2023
 - [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb) 2022
+- [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 05/2023
 
 ## Machine Learning Projects 🤖
 
