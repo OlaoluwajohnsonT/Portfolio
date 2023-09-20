@@ -12,8 +12,9 @@ Connect with me:
 
 ## Data Analytics Projects 📈
 
-- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
-- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
+- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study) 08/2023
+- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study) 08/2023
+- [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb) 2022
 
 ## Machine Learning Projects 🤖
 
@@ -24,7 +25,8 @@ Connect with me:
 ## Python Projects 🐍
 
 - [List of My Python Projects](https://github.com/OlaoluwajohnsonT/SQI-Colege-of-ICT-Projects-)
-- 
+
+  
 ## MySQL Projects 📊
 
 - [Coming soon](project1_link_url)
