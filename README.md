@@ -31,9 +31,15 @@ I conducted a Principal Component Analysis (PCA) on the dataset to uncover laten
 
 I conducted a sentiment analysis using a dataset that contains a collection of text data sourced from Twitter. In this analysis, my primary objective was to gain insights into the sentiments expressed within this dataset, uncovering the emotions and opinions shared by Twitter users.
 
+- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)
+
+I have the privilege of working with a dataset that spans over four decades of Apple Inc.'s stock market performance, collected meticulously from Yahoo Finance. This dataset presents a golden opportunity for Time Series Analysis (TSA) and Exploratory Data Analysis (EDA). 
+
 ## Python Projects 🐍
 
-- [Coming soon](project1_link_url)
+- [List of My Python Projects](https://github.com/OlaoluwajohnsonT/SQI-Colege-of-ICT-Projects-)
+
+These are some of the projects I did during my period learning data science using Python at SQI, College of ICT.
 
 ## MySQL Projects 📊
 
