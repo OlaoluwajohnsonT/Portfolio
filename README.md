@@ -12,17 +12,17 @@ Connect with me:
 
 ## Data Analytics Projects 📈
 
-- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study) 08/2023
-- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study) 08/2023
-- [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb) 2022
-- [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 05/2023
-- (European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)
+- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
+- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
+- [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
+- [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 
+- [European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)
 
 ## Machine Learning Projects 🤖
 
-- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project) 2023
-- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project) 2023
-- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021) 2023
+- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project) 
+- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
+- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021) 
 - [Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)
 
 ## Python Projects 🐍
