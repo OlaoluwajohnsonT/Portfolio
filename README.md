@@ -10,7 +10,7 @@ Connect with me:
 - [Website](https://olaoluwajtaiwo.com/)
 - [GitHub](https://github.com/OlaoluwajohnsonT)
 
-## Data Analytics Projects 📈
+## Data Analytics Projects (PYTHON & R)📈
 
 - [SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)
 - [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
@@ -19,7 +19,7 @@ Connect with me:
 - [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 
 - [European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)
 
-## Machine Learning Projects 🤖
+## Machine Learning Projects (PYTHON & R)🤖
 
 - [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project) 
 - [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
@@ -35,6 +35,6 @@ Connect with me:
 
 - [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
 
-## R Programming Language Projects 📉
+## R Tableau and Power Bi Projects 📉
 
 - [Coming soon](project1_link_url)
