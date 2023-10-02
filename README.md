@@ -35,6 +35,6 @@ Connect with me:
 
 - [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
 
-## R Tableau and Power Bi Projects 📉
+## Tableau and Power Bi Projects 📉
 
 - [Coming soon](project1_link_url)
