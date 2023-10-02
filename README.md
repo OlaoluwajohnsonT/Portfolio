@@ -33,7 +33,7 @@ Connect with me:
   
 ## MySQL Projects 📊
 
-- [Coming soon](project1_link_url)
+- [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
 
 ## R Programming Language Projects 📉
 
