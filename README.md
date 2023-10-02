@@ -12,6 +12,7 @@ Connect with me:
 
 ## Data Analytics Projects 📈
 
+-[SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)
 - [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
 - [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
 - [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
