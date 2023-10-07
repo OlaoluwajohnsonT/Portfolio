@@ -37,4 +37,4 @@ Connect with me:
 
 ## Tableau and Power Bi Projects 📉
 
-- [Coming soon](project1_link_url)
+- [Spyrocketed PTY LTD Dashboard](https://github.com/OlaoluwajohnsonT/PowerBi-Projects/blob/main/CUSTOMER%20DATA.pdf)
