@@ -37,7 +37,7 @@ Connect with me:
 - [Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)
 
 ## OESON Company and Presentations 📉
--[OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)
+- [OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)
 
 ## Python Projects 🐍
 
