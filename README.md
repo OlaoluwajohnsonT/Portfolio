@@ -22,12 +22,12 @@ Connect with me:
 
 ## Data Analytics Projects (PYTHON & R)📈
 
-- [SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)
 - [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
 - [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
 - [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
 - [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 
 - [European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)
+- [SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)
 
 ## Machine Learning Projects (PYTHON & R)🤖
 
@@ -47,6 +47,7 @@ Connect with me:
 ## MySQL Projects 📊
 
 - [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
+- [Indian Movie database Analysis](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship/blob/main/OLAOLUWAJOHNSONTAIWOFINAL%20PROJECT%20FOR%20SQL.sql)
 
 ## Tableau and Power Bi Projects 📉
 
