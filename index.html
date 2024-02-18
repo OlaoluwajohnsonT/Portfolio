@@ -10,6 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
+            color: #333;
         }
         .container {
             max-width: 800px;
@@ -19,33 +20,30 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .profile {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
+        header {
+            text-align: center;
+            margin-bottom: 30px;
         }
         .profile img {
-            width: 100px;
-            height: 100px;
+            width: 200px; /* Medium-sized profile image */
+            height: 200px;
             border-radius: 50%;
-            margin-right: 20px;
+            margin-bottom: 20px;
         }
-        .profile-info {
-            flex: 1;
+        nav {
+            text-align: center;
+            margin-bottom: 20px;
         }
-        .social-links {
-            margin-top: 10px;
-        }
-        .social-links a {
-            margin-right: 10px;
-            color: #333;
+        nav a {
+            margin: 0 20px;
             text-decoration: none;
+            color: #333;
         }
-        .social-links a:hover {
+        nav a:hover {
             color: #007bff;
         }
         .project {
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         .project img {
             max-width: 100%;
@@ -56,43 +54,60 @@
         .project p {
             text-align: justify;
         }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <div class="profile">
-        <img src="https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png" alt="Olaoluwa J Taiwo">
-        <div class="profile-info">
+    <header>
+        <div class="profile">
+            <img src="https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png" alt="Olaoluwa J Taiwo">
             <h1>Olaoluwa J. Taiwo</h1>
             <p>Data Enthusiast | Data Analyst | Machine Learning Engineer</p>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a>
-                <a href="https://twitter.com/your-twitter-handle">Twitter</a>
-                <a href="https://github.com/your-github-username">GitHub</a>
-                <!-- Add more social media links if needed -->
-            </div>
         </div>
-    </div>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About Me</a>
+            <a href="#projects">Projects</a>
+        </nav>
+    </header>
 
-    <div class="project">
-        <h2>Data Analytics Projects</h2>
-        <h3>Project 1</h3>
-        <img src="project1_image_url.jpg" alt="Project 1">
-        <p>Description of Project 1.</p>
-        <!-- Add project link if available -->
-    </div>
+    <section id="home">
+        <h2>About Me</h2>
+        <!-- Add your about me content here -->
+    </section>
 
-    <div class="project">
-        <h3>Project 2</h3>
-        <img src="project2_image_url.jpg" alt="Project 2">
-        <p>Description of Project 2.</p>
-        <!-- Add project link if available -->
-    </div>
+    <section id="about">
+        <h2>About Me</h2>
+        <!-- Add your about me content here -->
+    </section>
 
-    <!-- Repeat the structure for other project sections like Machine Learning, Python, MySQL, R Programming Language -->
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <img src="project1_image_url.jpg" alt="Project 1">
+            <p>Description of Project 1.</p>
+            <!-- Add project link if available -->
+        </div>
 
+        <div class="project">
+            <h3>Project 2</h3>
+            <img src="project2_image_url.jpg" alt="Project 2">
+            <p>Description of Project 2.</p>
+            <!-- Add project link if available -->
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
 </div>
+
+<footer>
+    &copy; 2024 Olaoluwa J. Taiwo
+</footer>
 
 </body>
 </html>
