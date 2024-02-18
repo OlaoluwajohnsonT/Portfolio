@@ -3,16 +3,7 @@
 ![Olaoluwa J. Taiwo](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)
 
 
-Welcome! 
-
-I am a Result-driven and motivated Data Scientist/Analyst with 5+ years of experience in digital marketing and business intelligence. I have helped businesses advance using SEO & SMM, digital optimization, market research, analytical thinking and business strategic plans. Over the past 5 years, I've excelled in:
-
--Performing sales and marketing analysis that generated over $2 million in annual revenue and a 70% increase in ROI on Amazon. 
--Helping 500+ brands boost sales above 50% with SEO-optimized content.
--Leading a brand digital optimization resulted in an 85% increase in traffic utilizing SMM and SEO strategies through extensive market research, and data-driven insights.
--Crafting more than 1000 business plans and proposals that helped startups get over $1m in funding and roadmap in the US, UK, Canada, and Africa.
-
-I'm skilled in using Python, R, SQL, Tableau, Power BI, and advanced Excel to extract insights, model, predict using various techniques, and help companies make better choices. I facilitate data-driven decision-making and offer actionable recommendations, leveraging advanced knowledge in Machine Learning and AI. When I am not working, I love visiting the gym, listening to music, coaching people, and going on tours.
+Broadminded Data Scientist & Machine Learning Engineer with proficiency working with Python and its ecosystem, R, SQL, and other data tools for data analysis, forecasting, predicting, visualizing, and business intelligence. With over 5 years of experience in the marketing and business development industry, I bring a unique perspective to data science, leveraging my diverse background to deliver impactful insights and solutions. Experienced in developing and deploying cutting-edge machine learning models and algorithms to drive business growth and optimize decision-making processes. Motivated to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills, including algorithm designs and data structures to solve problems and drive innovation.
 
 
 Connect with me:
