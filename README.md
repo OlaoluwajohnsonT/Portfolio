@@ -15,19 +15,20 @@ Connect with me:
 
 ## Data Analytics Projects (PYTHON & R)📈
 
-<img align="left" width="250" height="150" src="Image_URL_here"> 
+<img align="left" width="250" height="150" src="Image_URL_here"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)** 
 
-- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)  
 In this project, I analyzed bike trip data using Google Analytics to uncover patterns and insights.
 
-#
+#  
 
 <img align="left" width="250" height="150" src="Image_URL_here"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
+
 This case study explores the marketing strategies of The Bellabeat Company, focusing on user engagement and retention.
 
-#
+#   
   
 <img align="left" width="250" height="150" src="Image_URL_here"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-ANDVISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
+
 Explore real-life hospital data through visualization and analysis techniques to derive insights for decision-making.
 
 <img align="left" width="250" height="150" src="Image_URL_here"> 
