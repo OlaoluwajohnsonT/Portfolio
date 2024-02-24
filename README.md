@@ -19,11 +19,13 @@ In this project, I conducted a case study using Google Analytics data to analyze
 
 #
 
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/bellabeat.jpg"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
 
 This case study focuses on analyzing data from the Bellabeat company to provide recommendations for business growth and improvement.
 
 #
+
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/hospital_data.jpg"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
 
@@ -31,17 +33,20 @@ In this project, I explored and visualized real-life hospital data to gain insig
 
 #
 
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/forbes_billionaire.jpg"> **[Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis)**
 
 This project involves exploratory data analysis on Forbes billionaire data to understand trends and patterns among billionaires worldwide.
 
 #
 
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/vaccination.jpg"> **[European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)**
 
 In this analysis, I explored vaccination data for the European Union and EEA to understand vaccination trends and effectiveness.
 
 #
+
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/kpmg_project.jpg"> **[SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)**
 
