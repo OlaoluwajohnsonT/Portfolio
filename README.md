@@ -11,15 +11,14 @@ Connect with me:
 - [Website](https://olaoluwajtaiwo.com/)
 - [GitHub](https://github.com/OlaoluwajohnsonT)
 
-## Data Analytics Projects (PYTHON & R)📈
+## Data Analytics Projects 
 
-## Data Analytics Projects (PYTHON & R)📈
+<img align="left" width="250" height="150" src="[Image_URL_here](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/stephane-mingot-e8msPzLTXxU-unsplash.jpg)"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)** 
 
-<img align="left" width="250" height="150" src="Image_URL_here"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)** 
-
-In this project, I analyzed bike trip data using Google Analytics to uncover patterns and insights.
+In this report, I analyzed Cyclistic's historical trip data to understand the usage patterns of annual members and casual riders. By examining factors such as trip duration, day of the week, and customer behavior, I aimed to provide insights for developing a marketing strategy to convert casual riders into annual members. The data was collected from Cyclistic's database and organized for meaningful analysis. To ensure credibility, potential biases were addressed, and data integrity was verified. Using Python for cleaning and preprocessing, I performed descriptive analysis, including joining monthly data, converting start dates to DateTime format, calculating trip durations, and creating a column for the day of the week.
 
 <br/><br/>  
+<br/><br/> 
 
 <img align="left" width="250" height="150" src="Image_URL_here"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
 
