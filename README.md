@@ -13,74 +13,77 @@ Connect with me:
 
 ## Data Analytics Projects (PYTHON & R)📈
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/bike_trip.jpg"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)**
+## Data Analytics Projects (PYTHON & R)📈
 
-In this project, I conducted a case study using Google Analytics data to analyze bike trip data and derive insights for business strategies.
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-#
+- [Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)
 
+    In this project, I analyzed bike trip data using Google Analytics to uncover patterns and insights.
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/bellabeat.jpg"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-This case study focuses on analyzing data from the Bellabeat company to provide recommendations for business growth and improvement.
+- [The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)
 
-#
+    This case study explores the marketing strategies of The Bellabeat Company, focusing on user engagement and retention.
 
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/hospital_data.jpg"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
+- [Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
 
-In this project, I explored and visualized real-life hospital data to gain insights into patient demographics, treatments, and outcomes.
+    Explore real-life hospital data through visualization and analysis techniques to derive insights for decision-making.
 
-#
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
+- [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis) 
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/forbes_billionaire.jpg"> **[Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis)**
+    Conduct exploratory data analysis on Forbes Billionaire dataset to understand wealth distribution and trends.
 
-This project involves exploratory data analysis on Forbes billionaire data to understand trends and patterns among billionaires worldwide.
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-#
+- [European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)
 
+    Analyze vaccination data for the European Union/EEA region to assess the progress and trends in vaccination campaigns.
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/vaccination.jpg"> **[European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-In this analysis, I explored vaccination data for the European Union and EEA to understand vaccination trends and effectiveness.
+- [SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)
 
-#
-
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/kpmg_project.jpg"> **[SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)**
-
-This project involves customer segmentation analysis as part of the KPMG virtual internship, aimed at understanding customer behavior and preferences.
+    Implement customer segmentation analysis for KPMG Virtual Internship project to identify key customer segments.
 
 ## Machine Learning Projects (PYTHON & R)🤖
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/automotive_pca.jpg"> **[PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-This project focuses on performing PCA analysis on automotive data to identify patterns and reduce dimensionality.
+- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project) 
 
-#
+    Perform principal component analysis on automotive data to identify underlying patterns and reduce dimensionality.
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/trump_tweet.jpg"> **[Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-In this project, I conducted sentiment analysis on tweets from Donald Trump using natural language processing techniques.
+- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
 
-#
+    Analyze sentiment in tweets from Donald Trump using natural language processing techniques.
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/apple_stock.jpg"> **[Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-This project involves predicting Apple stock prices and conducting exploratory data analysis on historical stock data.
+- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021) 
 
-#
+    Predict Apple stock prices using machine learning models and conduct exploratory data analysis on historical data.
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/credit_card_clustering.jpg"> **[Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-In this project, I applied clustering analysis techniques to credit card data to identify customer segments and behavior patterns.
+- [Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)
+
+    Perform clustering analysis on credit card data to identify patterns and segments in customer spending behavior.
 
 ## OESON Company and Presentations 📉
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/oeson_projects.jpg"> **[OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)**
+<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-This section contains projects and collaborative reports from my internship at OESON company, showcasing my contributions and presentations.
+- [OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)
+
+    Compile reports and presentations for projects undertaken during my internship at OESON.
 
 ## Python Projects 🐍
 
