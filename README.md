@@ -15,14 +15,13 @@ Connect with me:
 
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/stephane-mingot-e8msPzLTXxU-unsplash.jpg"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)** 
 
-In this report, I analyzed Cyclistic's historical trip data to understand the usage patterns of annual members and casual riders. By examining factors such as trip duration, day of the week, and customer behavior, I aimed to provide insights for developing a marketing strategy to convert casual riders into annual members. The data was collected from Cyclistic's database and organized for meaningful analysis. To ensure credibility, potential biases were addressed, and data integrity was verified. Using Python for cleaning and preprocessing, I performed descriptive analysis, including joining monthly data, converting start dates to DateTime format, calculating trip durations, and creating a column for the day of the week.
+In this report, I analyzed Cyclistic's historical trip data to understand usage patterns and develop a marketing strategy. By examining trip duration, day of the week, and customer behavior, I aimed to convert casual riders into annual members. Data was collected from Cyclistic's database, organized, and verified for credibility. Using Python and Power BI, I performed descriptive analysis and prepared insights for strategic decision-making.
 
 <br/><br/>  
-<br/><br/> 
 
-<img align="left" width="250" height="150" src="Image_URL_here"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study/blob/main/236551_Bellabeat_Ivy_VSong_0009.jpg"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
 
-This case study explores the marketing strategies of The Bellabeat Company, focusing on user engagement and retention.
+Examining FitBit data, I analyze usage trends to bolster BellaBeat's marketing strategy. Utilizing Python, Pandas, Matplotlib, and Seaborn, I delve into minute-level physical activity, heart rate, and sleep patterns. Insights derived inform BellaBeat's approach, aiding in targeted marketing efforts and product enhancements. This independent project aims to leverage smart device data for actionable recommendations, aligning with BellaBeat's health-focused mission.
 
 <br/><br/> 
   
