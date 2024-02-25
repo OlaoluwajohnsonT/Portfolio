@@ -108,25 +108,32 @@ Analyzing Skyrocketed PTY LTD's customer data, I identified high-value customers
 ---
 
 
-## OESON Company and Presentations
+## Micro Projects
+
+Interim: This section houses my interim projects and presentations.
 
 - [OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)  
-  Compile reports and presentations for projects undertaken during my internship at OESON.
+  I compiled reports and presentations during my OESON internship, detailing collaborative projects.
 
-
-## Python Projects
+---
 
 - [List of My Python Projects](https://github.com/OlaoluwajohnsonT/SQI-Colege-of-ICT-Projects-)
 
-  
-## MySQL Projects 
+---
 
 - [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
-- [Indian Movie database Analysis](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship/blob/main/OLAOLUWAJOHNSONTAIWOFINAL%20PROJECT%20FOR%20SQL.sql)
+  Analyzing cyclist bike data using MySQL, I explored usage trends and patterns for insights.
 
-## Tableau and Power Bi Projects 📉
+- [Indian Movie database Analysis](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship/blob/main/OLAOLUWAJOHNSONTAIWOFINAL%20PROJECT%20FOR%20SQL.sql)
+  Using SQL, I delved into an Indian movie database, uncovering valuable insights.
+
+---
 
 - [Spyrocketed PTY LTD Dashboard](https://github.com/OlaoluwajohnsonT/PowerBi-Projects/blob/main/CUSTOMER%20DATA.pdf)
+  I developed a Power BI dashboard for Spyrocketed PTY LTD, providing actionable insights into customer data.
+
+These projects demonstrate my proficiency in Python, MySQL, Tableau, and Power BI for data analysis and visualization.
+
 
 
 
