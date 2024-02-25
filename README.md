@@ -11,19 +11,31 @@ Connect with me:
 - [Website](https://olaoluwajtaiwo.com/)
 - [GitHub](https://github.com/OlaoluwajohnsonT)
 
-## Data Analytics Projects 
+## Data Science & Analytics Projects (2023)
+
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project/blob/main/paul-kansonkho-9xjHQvdMi4c-unsplash.jpg"> **[PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)** 
+  
+In analyzing automobile data, I performed Principal Component Analysis (PCA) to uncover latent patterns and streamline dimensionality. With 201 entries and 29 columns, I explored numerical attributes like wheel-base and categorical data such as make and body style. Addressing missing values, I identified key features contributing to dataset variance. PCA revealed crucial insights, enhancing model efficiency and decision-making processes for predictive modelling in the automotive domain.
+
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project/blob/main/history-in-hd-cTz5-T7voqQ-unsplash.jpg"> **[Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)**
+
+In my project, I conducted sentiment analysis on Twitter data to gauge public opinion on Trump. Using natural language processing techniques and sentiment analysis tools, I analyzed 201 tweets, uncovering prevailing sentiments—positive, negative, or neutral. Through data preprocessing and interpretation of sentiment scores, I provided insights into the emotions and opinions expressed by Twitter users regarding Trump. This analysis offers valuable insights for decision-making and perception management strategies.
+
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021/blob/main/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg"> **[Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)**
+
+In this project, I conducted Exploratory Data Analysis (EDA) and Time Series Analysis (TSA) on Apple Inc.'s stock price data spanning four decades. Leveraging Python and statistical methods, I uncovered insights and trends in the dataset and employed TSA techniques to predict future stock price movements. This analysis offers valuable insights for investors and financial analysts, aiding in informed decision-making regarding Apple's stock market dynamics.
+
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data/blob/main/clay-banks-E2HgkL3LaFE-unsplash.jpg"> **[Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)**  
+
+In this project, I will conduct clustering analysis on a dataset containing credit card customer information. With 8,950 entries and 18 columns, I aim to identify hidden patterns and segment customers based on their usage behavior. Through EDA, preprocessing, and clustering algorithms like K-means, I'll unveil distinct customer segments. These insights can guide financial institutions in tailoring services and strategies, optimizing offerings, managing risk, and enhancing customer experiences.
 
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/stephane-mingot-e8msPzLTXxU-unsplash.jpg"> **[Bike Trip Data Google Analytics Case Study](https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study)** 
 
 In this report, I analyzed Cyclistic's historical trip data to understand usage patterns and develop a marketing strategy. By examining trip duration, day of the week, and customer behavior, I aimed to convert casual riders into annual members. Data was collected from Cyclistic's database, organized, and verified for credibility. Using Python and Power BI, I performed descriptive analysis and prepared insights for strategic decision-making.
 
-<br/><br/>  
-
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study/blob/main/236551_Bellabeat_Ivy_VSong_0009.jpg"> **[The Bellabeat Company Case Study](https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study)**
 
 Examining FitBit data, I analyze usage trends to bolster BellaBeat's marketing strategy. Utilizing Python, Pandas, Matplotlib, and Seaborn, I delve into minute-level physical activity, heart rate, and sleep patterns. Insights derived inform BellaBeat's approach, aiding in targeted marketing efforts and product enhancements. This independent project aims to leverage smart device data for actionable recommendations, aligning with BellaBeat's health-focused mission.
-
-<br/><br/> 
   
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/piron-guillaume-U4FyCp3-KzY-unsplash.jpg"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-ANDVISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
 
@@ -37,32 +49,12 @@ Analyzing the 2022 Forbes dataset, I delve into attributes like name, net worth,
 
 In this project, I analyzed COVID-19 vaccination data from the European Union and European Economic Area (EU/EEA), seeking insights to enhance public health strategies. Using Python, Pandas, Matplotlib, and Seaborn, I cleaned, visualized, and analyzed the data. Through comprehensive analysis, I uncovered trends, patterns, and correlations in vaccination efforts. My findings informed policymakers and healthcare professionals, guiding evidence-based decision-making and optimizing vaccination strategies to combat the COVID-19 pandemic effectively.
 
-<img align="left" width="250" height="150" src="Image_URL_here"> 
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/blob/main/pascal-bernardon-MhS7zfETFd0-unsplash.jpg"> **[SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)**
 
-- [SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)  
-  Implement customer segmentation analysis for KPMG Virtual Internship project to identify key customer segments.
-
+Analyzing Skyrocketed PTY LTD's customer data, I identified high-value customers and devised targeted strategies using Python, Pandas, Scikit-learn, Power BI, and Tableau. Actionable insights were extracted by delving into behaviour and preferences to guide marketing efforts. Leveraging interactive visualization tools like Power BI and Tableau enhanced data exploration and communication. This project showcases the synergy between data analysis and visualization in driving business growth and customer retention in the competitive market.
 ## Machine Learning Projects (PYTHON & R)🤖
 
-<img align="left" width="250" height="150" src="Image_URL_here"> 
 
-- [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)  
-  Perform principal component analysis on automotive data to identify underlying patterns and reduce dimensionality.
-
-<img align="left" width="250" height="150" src="Image_URL_here"> 
-
-- [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)  
-  Analyze sentiment in tweets from Donald Trump using natural language processing techniques.
-
-<img align="left" width="250" height="150" src="Image_URL_here"> 
-
-- [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)  
-  Predict Apple stock prices using machine learning models and conduct exploratory data analysis on historical data.
-
-<img align="left" width="250" height="150" src="Image_URL_here"> 
-
-- [Clustering Analysis On Credit Card Data](https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data)  
-  Perform clustering analysis on credit card data to identify patterns and segments in customer spending behavior.
 
 ## OESON Company and Presentations 📉
 
