@@ -13,13 +13,20 @@ Connect with me:
 
 ## Data Science & Analytics Projects (2023)
 
-<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project/blob/main/paul-kansonkho-9xjHQvdMi4c-unsplash.jpg"> **[PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)** 
-  
+## Data Science & Analytics Projects (2023)
+
+### [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project)  
+<img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project/blob/main/paul-kansonkho-9xjHQvdMi4c-unsplash.jpg"> 
+
 In analyzing automobile data, I performed Principal Component Analysis (PCA) to uncover latent patterns and streamline dimensionality. With 201 entries and 29 columns, I explored numerical attributes like wheel-base and categorical data such as make and body style. Addressing missing values, I identified key features contributing to dataset variance. PCA revealed crucial insights, enhancing model efficiency and decision-making processes for predictive modelling in the automotive domain.
 
-<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project/blob/main/history-in-hd-cTz5-T7voqQ-unsplash.jpg"> **[Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)**
+---
+
+### [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
+<img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project/blob/main/history-in-hd-cTz5-T7voqQ-unsplash.jpg"> 
 
 In my project, I conducted sentiment analysis on Twitter data to gauge public opinion on Trump. Using natural language processing techniques and sentiment analysis tools, I analyzed 201 tweets, uncovering prevailing sentiments—positive, negative, or neutral. Through data preprocessing and interpretation of sentiment scores, I provided insights into the emotions and opinions expressed by Twitter users regarding Trump. This analysis offers valuable insights for decision-making and perception management strategies.
+
 
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021/blob/main/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg"> **[Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)**
 
