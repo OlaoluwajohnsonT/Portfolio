@@ -1,19 +1,15 @@
 # Data Science Portfolio - Olaoluwa J Taiwo
 
-<img src="https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png" alt="Olaoluwa J. Taiwo" width="200" align="left">
-
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
 
-
-
-
-Broadminded Data Scientist & Machine Learning Engineer with proficiency working with Python and its ecosystem, R, SQL, and other data tools for data analysis, forecasting, predicting, visualizing, and business intelligence. With over 5 years of experience in the marketing and business development industry, I bring a unique perspective to data science, leveraging my diverse background to deliver impactful insights and solutions. Experienced in developing and deploying cutting-edge machine learning models and algorithms to drive business growth and optimize decision-making processes. Motivated to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills, including algorithm designs and data structures to solve problems and drive innovation.
+# About Me
+Broadminded Data Scientist & Machine Learning Engineer with proficiency working with Python and its ecosystem, R, SQL, and other data tools for data analysis, forecasting, predicting, visualizing, and business intelligence. With over 5 years of experience in the marketing and business development industry, I bring a unique perspective to data science, leveraging my diverse background to deliver impactful insights and solutions. Experienced in developing and deploying cutting-edge machine learning models and algorithms to drive business growth and optimize decision-making processes. Motivated to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills, including algorithm designs and data structures, to solve problems and drive innovation.
 
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/olaoluwa-johnson-taiwo/)
-- [Website](https://olaoluwajtaiwo.com/)
 - [GitHub](https://github.com/OlaoluwajohnsonT)
+- [Medium](https://medium.com/@OJTaiwo)
 
 ## Data Science & Analytics Projects (2023)
 
