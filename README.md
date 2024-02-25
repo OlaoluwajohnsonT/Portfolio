@@ -25,19 +25,17 @@ Examining FitBit data, I analyze usage trends to bolster BellaBeat's marketing s
 
 <br/><br/> 
   
-<img align="left" width="250" height="150" src="Image_URL_here"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-ANDVISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/piron-guillaume-U4FyCp3-KzY-unsplash.jpg"> **[Real Life Hospital Data Exploration](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-ANDVISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)**
 
-Explore real-life hospital data through visualization and analysis techniques to derive insights for decision-making.
+In this hospital project, I investigated visitor patterns, revenue sources, and patient correlations. Notably, insurance types lead revenue, with 40% attributed to insurance, followed by Corporate and HMO. Peak revenue occurs between 8 and 10 am. Correlating patient IDs with revenue unveils insightful relationships. Leveraging Python, Pandas, Matplotlib, and Seaborn, I provide actionable insights for optimizing hospital operations and revenue generation, facilitating strategic decision-making.
 
-<img align="left" width="250" height="150" src="Image_URL_here"> 
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis/blob/main/rob-3xoJTAyEqQo-unsplash.jpg"> **[Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis)**
 
-- [Exploratory Data Analysis (EDA) on Forbes Billionaire](https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis)   
-  Conduct exploratory data analysis on Forbes Billionaire dataset to understand wealth distribution and trends.
+Analyzing the 2022 Forbes dataset, I delve into attributes like name, net worth, and industry to uncover trends among global billionaires. By utilizing Python, Pandas, Matplotlib, and Seaborn, I clean, analyze, and visualize the data, aiming to extract valuable insights into wealth distribution, industry dominance, and demographic characteristics. This analysis offers a unique glimpse into the world's wealthiest individuals, shedding light on factors influencing their success and the broader economic landscape.
 
-<img align="left" width="250" height="150" src="Image_URL_here"> 
+<img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA/blob/main/martin-sanchez-j2c7yf223Mk-unsplash.jpg"> **[European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)** 
 
-- [European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)  
-  Analyze vaccination data for the European Union/EEA region to assess the progress and trends in vaccination campaigns.
+In this project, I analyzed COVID-19 vaccination data from the European Union and European Economic Area (EU/EEA), seeking insights to enhance public health strategies. Using Python, Pandas, Matplotlib, and Seaborn, I cleaned, visualized, and analyzed the data. Through comprehensive analysis, I uncovered trends, patterns, and correlations in vaccination efforts. My findings informed policymakers and healthcare professionals, guiding evidence-based decision-making and optimizing vaccination strategies to combat the COVID-19 pandemic effectively.
 
 <img align="left" width="250" height="150" src="Image_URL_here"> 
 
