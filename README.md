@@ -1,8 +1,9 @@
 # Data Science Portfolio - Olaoluwa J Taiwo
 
-![Olaoluwa J. Taiwo](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)
+<img src="https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png" alt="Olaoluwa J. Taiwo" width="200" align="left">
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
+
 
 
 
