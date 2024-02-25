@@ -5,6 +5,11 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 # About Me
 Broadminded Data Scientist & Machine Learning Engineer with proficiency working with Python and its ecosystem, R, SQL, and other data tools for data analysis, forecasting, predicting, visualizing, and business intelligence. With over 5 years of experience in the marketing and business development industry, I bring a unique perspective to data science, leveraging my diverse background to deliver impactful insights and solutions. Experienced in developing and deploying cutting-edge machine learning models and algorithms to drive business growth and optimize decision-making processes. Motivated to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills, including algorithm designs and data structures, to solve problems and drive innovation.
 
+## Core Competencies
+
+- **Methodologies**: Business Intelligence, Machine Learning, Deep Learning, Time Series Analysis, NLP, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics, Customer Segmentation, 
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, HTML, CSS
+- **Tools**: MySQL, PostgreSQL, R studio, Tableau, Git, Jupyter Notebook, Power BI, BigQuery, Looker, Amazon Web Services (AWS), Google Cloud (GCP), MS Excel
 
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/olaoluwa-johnson-taiwo/)
@@ -18,12 +23,11 @@ Connect with me:
 
 In analyzing automobile data, I performed Principal Component Analysis (PCA) to uncover latent patterns and streamline dimensionality. With 201 entries and 29 columns, I explored numerical attributes like wheel-base and categorical data such as make and body style. Addressing missing values, I identified key features contributing to dataset variance. PCA revealed crucial insights, enhancing model efficiency and decision-making processes for predictive modelling in the automotive domain.
 
-<br><be>
 <br><br>
 <br><br>
 ---
 
-### [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
+### [NLP For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project/blob/main/history-in-hd-cTz5-T7voqQ-unsplash.jpg"> 
 
 In this project, I conducted sentiment analysis on Twitter data to gauge public opinion on Trump. Using natural language processing techniques and sentiment analysis tools, I analyzed 201 tweets, uncovering prevailing sentiments—positive, negative, or neutral. Through data preprocessing and interpretation of sentiment scores, I provided insights into the emotions and opinions expressed by Twitter users regarding Trump. This analysis offers valuable insights for decision-making and perception management strategies.
@@ -100,24 +104,22 @@ In this project, I analyzed COVID-19 vaccination data from the European Union an
 
 Analyzing Skyrocketed PTY LTD's customer data, I identified high-value customers and devised targeted strategies using Python, Pandas, Scikit-learn, Power BI, and Tableau. Actionable insights were extracted by delving into behaviour and preferences to guide marketing efforts. Leveraging interactive visualization tools like Power BI and Tableau enhanced data exploration and communication. This project will help in driving business growth and customer retention in the competitive market.
 
+<br><br>
+---
 
 
-
-
-## OESON Company and Presentations 📉
-
-<img align="left" width="250" height="150" src="Image_URL_here"> 
+## OESON Company and Presentations
 
 - [OESON Projects and Collaboratives Reports](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship)  
   Compile reports and presentations for projects undertaken during my internship at OESON.
 
 
-## Python Projects 🐍
+## Python Projects
 
 - [List of My Python Projects](https://github.com/OlaoluwajohnsonT/SQI-Colege-of-ICT-Projects-)
 
   
-## MySQL Projects 📊
+## MySQL Projects 
 
 - [Cyclistbike data Using MySQL](https://github.com/OlaoluwajohnsonT/Cyclistbikedata-Using-MySQL)
 - [Indian Movie database Analysis](https://github.com/OlaoluwajohnsonT/Oeson-Company-Internship/blob/main/OLAOLUWAJOHNSONTAIWOFINAL%20PROJECT%20FOR%20SQL.sql)
