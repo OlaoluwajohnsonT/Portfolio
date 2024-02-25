@@ -1,6 +1,9 @@
-# Welcome to My Data Journey 📊
+# Data Science Portfolio - Olaoluwa J Taiwo
 
 ![Olaoluwa J. Taiwo](https://github.com/OlaoluwajohnsonT/Portfolio/blob/main/1000020723-removebg.png)
+
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
+
 
 
 Broadminded Data Scientist & Machine Learning Engineer with proficiency working with Python and its ecosystem, R, SQL, and other data tools for data analysis, forecasting, predicting, visualizing, and business intelligence. With over 5 years of experience in the marketing and business development industry, I bring a unique perspective to data science, leveraging my diverse background to deliver impactful insights and solutions. Experienced in developing and deploying cutting-edge machine learning models and algorithms to drive business growth and optimize decision-making processes. Motivated to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills, including algorithm designs and data structures to solve problems and drive innovation.
@@ -47,12 +50,12 @@ Analyzing the 2022 Forbes dataset, I delve into attributes like name, net worth,
 
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA/blob/main/martin-sanchez-j2c7yf223Mk-unsplash.jpg"> **[European Union/EEA Vaccinated EDA Analysis](https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA)** 
 
-In this project, I analyzed COVID-19 vaccination data from the European Union and European Economic Area (EU/EEA), seeking insights to enhance public health strategies. Using Python, Pandas, Matplotlib, and Seaborn, I cleaned, visualized, and analyzed the data. Through comprehensive analysis, I uncovered trends, patterns, and correlations in vaccination efforts. My findings informed policymakers and healthcare professionals, guiding evidence-based decision-making and optimizing vaccination strategies to combat the COVID-19 pandemic effectively.
+In this project, I analyzed COVID-19 vaccination data from the European Union and European Economic Area (EU/EEA), seeking insights to enhance public health strategies. Using Python, Pandas, Matplotlib, and Seaborn, I cleaned, visualized, and analyzed the data. Through comprehensive analysis, I uncovered trends, patterns, and correlations in vaccination efforts. My findings informed policymakers and healthcare professionals, guiding informed decision-making and optimizing vaccination strategies to combat the COVID-19 pandemic effectively.
 
 <img align="left" width="250" height="150" src="https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/blob/main/pascal-bernardon-MhS7zfETFd0-unsplash.jpg"> **[SPYROCKETED CUSTOMER SEGMENTATION DATA ANALYSIS: KPMG Virtual Internship](https://github.com/OlaoluwajohnsonT/KPMD-Customer-Segmentation-project/tree/main)**
 
-Analyzing Skyrocketed PTY LTD's customer data, I identified high-value customers and devised targeted strategies using Python, Pandas, Scikit-learn, Power BI, and Tableau. Actionable insights were extracted by delving into behaviour and preferences to guide marketing efforts. Leveraging interactive visualization tools like Power BI and Tableau enhanced data exploration and communication. This project showcases the synergy between data analysis and visualization in driving business growth and customer retention in the competitive market.
-## Machine Learning Projects (PYTHON & R)🤖
+Analyzing Skyrocketed PTY LTD's customer data, I identified high-value customers and devised targeted strategies using Python, Pandas, Scikit-learn, Power BI, and Tableau. Actionable insights were extracted by delving into behaviour and preferences to guide marketing efforts. Leveraging interactive visualization tools like Power BI and Tableau enhanced data exploration and communication. This project will help in driving business growth and customer retention in the competitive market.
+
 
 
 
