@@ -17,23 +17,26 @@ Connect with me:
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project/blob/main/paul-kansonkho-9xjHQvdMi4c-unsplash.jpg"> 
 
 In analyzing automobile data, I performed Principal Component Analysis (PCA) to uncover latent patterns and streamline dimensionality. With 201 entries and 29 columns, I explored numerical attributes like wheel-base and categorical data such as make and body style. Addressing missing values, I identified key features contributing to dataset variance. PCA revealed crucial insights, enhancing model efficiency and decision-making processes for predictive modelling in the automotive domain.
+
 <br><be>
 <br><br>
-
+<br><br>
 ---
 
 ### [Natural Language Processing For Trump Tweet Sentimental Analysis Project](https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Twitter-Trump-tweet-Sentimental-Analysis-Project/blob/main/history-in-hd-cTz5-T7voqQ-unsplash.jpg"> 
 
 In this project, I conducted sentiment analysis on Twitter data to gauge public opinion on Trump. Using natural language processing techniques and sentiment analysis tools, I analyzed 201 tweets, uncovering prevailing sentiments—positive, negative, or neutral. Through data preprocessing and interpretation of sentiment scores, I provided insights into the emotions and opinions expressed by Twitter users regarding Trump. This analysis offers valuable insights for decision-making and perception management strategies.
+
 <br><be>
-<br><br>
+<br><be>
 ---
 
 ### [Apple Stock Price Prediction and EDA Analysis](https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Apple-Stock-Price-from-1980-2021/blob/main/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg">
 
 In this project, I conducted Exploratory Data Analysis (EDA) and Time Series Analysis (TSA) on Apple Inc.'s stock price data spanning four decades. Leveraging Python and statistical methods, I uncovered insights and trends in the dataset and employed TSA techniques to predict future stock price movements. This analysis offers valuable insights for investors and financial analysts, aiding in informed decision-making regarding Apple's stock market dynamics.
+
 <br><be>
 <br><br>
 ---
@@ -42,6 +45,7 @@ In this project, I conducted Exploratory Data Analysis (EDA) and Time Series Ana
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Clustering-Analysis-Using-Credit-card-data/blob/main/clay-banks-E2HgkL3LaFE-unsplash.jpg">  
 
 In this project, I will conduct clustering analysis on a dataset containing credit card customer information. With 8,950 entries and 18 columns, I aim to identify hidden patterns and segment customers based on their usage behavior. Through EDA, preprocessing, and clustering algorithms like K-means, I'll unveil distinct customer segments. These insights can guide financial institutions in tailoring services and strategies, optimizing offerings, managing risk, and enhancing customer experiences.
+
 <br><be>
 <br><br>
 ---
@@ -50,6 +54,7 @@ In this project, I will conduct clustering analysis on a dataset containing cred
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Bike-Trip-Datat-Google-Analytics-Case-Study/blob/main/stephane-mingot-e8msPzLTXxU-unsplash.jpg"> 
 
 In this report, I analyzed Cyclistic's historical trip data to understand usage patterns and develop a marketing strategy. By examining trip duration, day of the week, and customer behavior, I aimed to convert casual riders into annual members. Data was collected from Cyclistic's database, organized, and verified for credibility. Using Python and Power BI, I performed descriptive analysis and prepared insights for strategic decision-making.
+
 <br><be>
 <br><br>
 ---
@@ -58,6 +63,7 @@ In this report, I analyzed Cyclistic's historical trip data to understand usage 
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/The-BellaBeat-Company-Case-Study/blob/main/236551_Bellabeat_Ivy_VSong_0009.jpg">
 
 Examining FitBit data, I analyze usage trends to bolster BellaBeat's marketing strategy. Utilizing Python, Pandas, Matplotlib, and Seaborn, I delve into minute-level physical activity, heart rate, and sleep patterns. Insights derived inform BellaBeat's approach, aiding in targeted marketing efforts and product enhancements. This independent project aims to leverage smart device data for actionable recommendations, aligning with BellaBeat's health-focused mission.
+
 <br><be>
 <br><br>
 ---
@@ -66,6 +72,7 @@ Examining FitBit data, I analyze usage trends to bolster BellaBeat's marketing s
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/piron-guillaume-U4FyCp3-KzY-unsplash.jpg">
 
 In this hospital project, I investigated visitor patterns, revenue sources, and patient correlations. Notably, insurance types lead revenue, with 40% attributed to insurance, followed by Corporate and HMO. Peak revenue occurs between 8 and 10 am. Correlating patient IDs with revenue unveils insightful relationships. Leveraging Python, Pandas, Matplotlib, and Seaborn, I provide actionable insights for optimizing hospital operations and revenue generation, facilitating strategic decision-making.
+
 <br><be>
 <br><br>
 ---
@@ -74,6 +81,7 @@ In this hospital project, I investigated visitor patterns, revenue sources, and 
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Forbes-Billionaire-Exploratory-Data-Analysis/blob/main/rob-3xoJTAyEqQo-unsplash.jpg">
 
 Analyzing the 2022 Forbes dataset, I delve into attributes like name, net worth, and industry to uncover trends among global billionaires. By utilizing Python, Pandas, Matplotlib, and Seaborn, I clean, analyze, and visualize the data, aiming to extract valuable insights into wealth distribution, industry dominance, and demographic characteristics. This analysis offers a unique glimpse into the world's wealthiest individuals, shedding light on factors influencing their success and the broader economic landscape.
+
 <br><be>
 <br><br>
 ---
@@ -82,6 +90,7 @@ Analyzing the 2022 Forbes dataset, I delve into attributes like name, net worth,
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/Covid-19-Vacinnated-data-anaysis-for-EUROPEANUNION-AND-EEA/blob/main/martin-sanchez-j2c7yf223Mk-unsplash.jpg"> 
 
 In this project, I analyzed COVID-19 vaccination data from the European Union and European Economic Area (EU/EEA), seeking insights to enhance public health strategies. Using Python, Pandas, Matplotlib, and Seaborn, I cleaned, visualized, and analyzed the data. Through comprehensive analysis, I uncovered trends, patterns, and correlations in vaccination efforts. My findings informed policymakers and healthcare professionals, guiding informed decision-making and optimizing vaccination strategies to combat the COVID-19 pandemic effectively.
+
 <br><be>
 <br><br>
 ---
