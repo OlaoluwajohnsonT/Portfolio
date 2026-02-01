@@ -12,9 +12,9 @@ Broad-minded Data Scientist with over 7 years of experience across business, B2B
 - **Tools**: MySQL, PostgreSQL, R Studio, Tableau, Git, Jupyter Notebook, Power BI, BigQuery, Looker, Azure, Google Cloud (GCP), MS Excel
 
 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/olaoluwa-johnson-taiwo/)
+- [LinkedIn](https://www.linkedin.com/in/ojtaiwo/)
 - [GitHub](https://github.com/OlaoluwajohnsonT)
-- [Medium](https://medium.com/@OJTaiwo)
+- [Twitter X](https://x.com/Johnsontaiwo_)
 
 ## ACADEMIC RESEARCH
 - [ResarchGate](https://www.researchgate.net/profile/Olaoluwa-Johnson-Taiwo)
