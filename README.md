@@ -34,7 +34,7 @@ This project applies Marketing Mix Modelling to evaluate how TV, radio, and news
 ### [Marketing Mix Modelling (MMM) – Media Spend vs Sales Analysis](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modelling-MMM-Media-Spend-vs-Sales-Analysis)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/markus-winkler-f57lx37DCM4-unsplash.jpg">
 
-This project applies Marketing Mix Modelling techniques to evaluate how different media channels influence sales performance. Using regression and machine learning models, it decomposes sales into channel-level contributions, estimates return on investment for each channel, and delivers actionable insights to support data-driven marketing budget allocation and optimisation decisions.
+This project applies Marketing Mix Modelling techniques to assess how different media channels impact overall sales performance. Regression and machine learning models are used to decompose sales into channel-level contributions, quantify each channel’s influence, and estimate return on investment. The analysis provides clear, actionable insights that support data-driven budget allocation, optimisation decisions, and strategic planning, enabling marketers to maximise efficiency, improve forecasting accuracy, and enhance the overall effectiveness of media spend across campaigns.
 
 <br><be>
 <br><br>
@@ -46,7 +46,7 @@ This project applies Marketing Mix Modelling techniques to evaluate how differen
 ### [Driving Smarter Budget Decisions with Shapley & Markov Attribution](https://github.com/OlaoluwajohnsonT/multi-touch-attribution-python)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/fabio-oyXis2kALVg-unsplash%20(1).jpg">  
 
-This project applies multi-touch attribution models in Python to measure how marketing channels contribute to conversions. It integrates rule-based, probabilistic, and predictive methods to deliver actionable insights that support data-driven marketing budget allocation and performance optimisation across digital channels.
+This project applies multi-touch attribution models in Python to assess how different marketing channels contribute to conversions across the full customer journey. It combines rule-based, probabilistic, and predictive approaches to quantify channel influence, capture interaction effects, and evaluate performance beyond single-touch models. The analysis delivers actionable insights that support data-driven marketing budget allocation, optimisation of channel mix, and improved decision-making. Overall, the project demonstrates how advanced attribution techniques can enhance marketing effectiveness, maximise return on investment, and provide a more accurate understanding of multi-channel digital performance.
 
 <br><be>
 <br><br>
@@ -58,7 +58,7 @@ This project applies multi-touch attribution models in Python to measure how mar
 ### [Marketing Mix Modelling for Product Promotion](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modelling-for-Product-Promotion)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/deng-xiang--WXQm_NTK0U-unsplash.jpg"> 
 
-This project applies Marketing Mix Modelling (MMM) to analyse how different advertising channels drive product sales. By comparing Linear Regression, Ridge, and Gradient Boosting models, we estimate channel contributions, capture diminishing returns, and provide data-driven budget allocation strategies.
+This project applies Marketing Mix Modelling to evaluate how different advertising channels influence product sales. Linear Regression, Ridge Regression, and Gradient Boosting models are developed and compared to estimate channel-level contributions and performance. The analysis captures diminishing returns and interaction effects across media channels, enabling a deeper understanding of marketing impact. Insights from the models support data-driven budget allocation strategies, improve forecasting accuracy, and help optimise marketing spend to maximise return on investment and overall sales effectiveness.
 
 <br><be>
 <br><br>
@@ -70,7 +70,7 @@ This project applies Marketing Mix Modelling (MMM) to analyse how different adve
 ### [Marketing Mix Modeling for Digital Advertisingy](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modeling-for-Digital-Advertising-)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-o_tcYADlSt8-unsplash.jpg">
 
-This project evaluates multiple machine learning models to forecast sales and provide actionable insights for marketing budget allocation. Ridge Regression outperformed other approaches, offering the highest accuracy and stability. The analysis highlights the impact of Google, Facebook, and TikTok Ads as primary sales drivers, with seasonal effects also playing a significant role.
+This project evaluates multiple machine learning models to forecast sales and generate actionable insights for marketing budget allocation. Several approaches were compared, with Ridge Regression delivering the highest accuracy and model stability. The analysis identifies Google, Facebook, and TikTok Ads as the primary drivers of sales performance, while also highlighting the significant influence of seasonal patterns. The results support more informed, data-driven budget decisions, improved forecasting reliability, and strategic optimisation of digital advertising spend to maximise return on investment and overall marketing effectiveness.
 
 
 <br><be>
@@ -82,7 +82,7 @@ This project evaluates multiple machine learning models to forecast sales and pr
 ### [Marketing Attribution Analysis](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-X89VSmdDKE0-unsplash.jpg">
 
-Analysed multi-channel customer journeys using multiple attribution models to assess channel impact. Findings showed Facebook and Paid Search as primary revenue drivers, Online Video as both awareness and closing channel, and Instagram and Display supporting nurturing, retargeting, and optimisation through data-driven attribution strategies.
+This project analysed multi-channel customer journeys using multiple attribution models to assess how different marketing channels contribute to conversions and revenue. The findings identified Facebook and Paid Search as the primary revenue drivers across the customer journey. Online Video was shown to play a dual role, supporting both awareness generation and conversion closing. Instagram and Display channels primarily contributed as supporting touchpoints, effective for nurturing, retargeting, and reinforcing engagement. Overall, the analysis demonstrated the value of data-driven, multi-touch attribution approaches in improving channel evaluation, optimising budget allocation, and enhancing overall digital marketing performance.
 
 <br><be>
 <br><br>
