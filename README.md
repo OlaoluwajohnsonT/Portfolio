@@ -22,7 +22,7 @@ Connect with me:
 ### [Marketing Mix Modelling (MMM) – Advertising & Sales](https://github.com/OlaoluwajohnsonT/tv-radio-newspaper-sales-forecasting)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-o_tcYADlSt8-unsplash.jpg"> 
 
-This project uses Marketing Mix Modelling to analyse how TV, radio, and newspaper advertising drive sales. Multiple regression and machine learning models were compared, identifying Random Forest as best performer. Results quantified channel contributions, highlighted ROI differences, and delivered forecasting tools and actionable recommendations to optimise advertising budget allocation.
+This project applies Marketing Mix Modelling to evaluate how TV, radio, and newspaper advertising influence sales performance. Multiple regression and machine learning models were developed and compared, with Random Forest emerging as the strongest performer. The analysis quantified each channel’s contribution to sales, revealed differences in return on investment, and assessed marginal effects. A forecasting framework was also built to simulate future advertising scenarios, enabling data-driven budget allocation decisions and practical recommendations to maximise marketing effectiveness and overall return on investment.
 
 <br><be>
 <br><be>
