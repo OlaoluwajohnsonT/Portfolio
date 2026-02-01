@@ -26,6 +26,9 @@ This project uses Marketing Mix Modelling to analyse how TV, radio, and newspape
 
 <br><be>
 <br><be>
+
+
+
 ---
 
 ### [Marketing Mix Modelling (MMM) – Media Spend vs Sales Analysis](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modelling-MMM-Media-Spend-vs-Sales-Analysis)
@@ -35,6 +38,9 @@ This project applies Marketing Mix Modelling techniques to evaluate how differen
 
 <br><be>
 <br><br>
+
+
+
 ---
 
 ### [Driving Smarter Budget Decisions with Shapley & Markov Attribution](https://github.com/OlaoluwajohnsonT/multi-touch-attribution-python)
@@ -46,6 +52,9 @@ This project applies multi-touch attribution models in Python to measure how mar
 <br><br>
 ---
 
+
+
+
 ### [Marketing Mix Modelling for Product Promotion](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modelling-for-Product-Promotion)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/deng-xiang--WXQm_NTK0U-unsplash.jpg"> 
 
@@ -54,6 +63,9 @@ This project applies Marketing Mix Modelling (MMM) to analyse how different adve
 <br><be>
 <br><br>
 ---
+
+
+
 
 ### [Marketing Mix Modeling for Digital Advertisingy](https://github.com/OlaoluwajohnsonT/Marketing-Mix-Modeling-for-Digital-Advertising-)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-o_tcYADlSt8-unsplash.jpg">
@@ -65,6 +77,8 @@ This project evaluates multiple machine learning models to forecast sales and pr
 <br><br>
 ---
 
+
+
 ### [Marketing Attribution Analysis](https://github.com/OlaoluwajohnsonT/HOSPITAL-DATA-EXPLORATION-AND-VISUALIZATION/blob/main/HOSPITAL%20DATA%20EXPLORATION.ipynb)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-X89VSmdDKE0-unsplash.jpg">
 
@@ -73,6 +87,9 @@ Analysed multi-channel customer journeys using multiple attribution models to as
 <br><be>
 <br><br>
 ---
+
+
+
 
 
 
