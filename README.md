@@ -22,7 +22,7 @@ Connect with me:
 
 
 
-## Data Science & Analytics Projects (2024/2025)
+# Data Science & Analytics Projects (2024/2025)
 
 ### [Marketing Mix Modelling (MMM) – Advertising & Sales](https://github.com/OlaoluwajohnsonT/tv-radio-newspaper-sales-forecasting)
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/2024-Projects/blob/main/boitumelo-o_tcYADlSt8-unsplash.jpg"> 
@@ -99,7 +99,7 @@ This project analysed multi-channel customer journeys using multiple attribution
 
 
 
-## Data Science & Analytics Projects (2023)
+# Data Science & Analytics Projects (2023)
 
 ### [PCA ANALYSIS FOR AUTOMOTIVE DATA](https://github.com/OlaoluwajohnsonT/marketing-attribution-analysis) 
 <img align="left" width="40%" src="https://github.com/OlaoluwajohnsonT/PCA-ANALYSIS-FOR-AUTOMOTIVE-DATA-Project/blob/main/paul-kansonkho-9xjHQvdMi4c-unsplash.jpg"> 
