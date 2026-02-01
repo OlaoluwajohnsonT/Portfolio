@@ -16,6 +16,11 @@ Connect with me:
 - [GitHub](https://github.com/OlaoluwajohnsonT)
 - [Medium](https://medium.com/@OJTaiwo)
 
+## ACADEMIC RESEARCH
+- [ResarchGate](https://www.researchgate.net/profile/Olaoluwa-Johnson-Taiwo)
+- [University of Lancashire](https://knowledge.lancashire.ac.uk/id/eprint/54407/)
+
+
 
 ## Data Science & Analytics Projects (2024/2025)
 
